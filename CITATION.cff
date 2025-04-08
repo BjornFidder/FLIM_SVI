@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Fidder"
+  given-names: "Bjorn"
+title: "EM algorithm for FLIM"
+version: 1.0.0
+date-released: 2025-04-08
+url: "https://github.com/BjornFidder/FLIM_SVI"
